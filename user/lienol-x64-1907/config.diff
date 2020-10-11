@@ -5,6 +5,8 @@ CONFIG_ALL_KMODS=y
 
 #机型选择
 CONFIG_TARGET_armvirt=y
+CONFIG_TARGET_armvirt_64=y
+CONFIG_TARGET_armvirt_64_Default=y
 
 #镜像设置
 #CONFIG_TARGET_ROOTFS_EXT4FS=y
